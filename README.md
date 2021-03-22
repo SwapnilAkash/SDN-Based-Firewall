@@ -5,3 +5,5 @@ We can eliminate the need for extra hardware and mangement resources for a Firew
 
 I have implemented a POX based firewall simulated in Mininet. 
 I have implemented Layer 3 and Layer 4 packet-filtering firewall built in the controller of the SDN itself with user defined rules in a csv file.
+
+The topology under consideration should be without any loops.
